@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](https://i.imgur.com/x1K8zKv.png)
+![Banner]([https://i.imgur.com/x1K8zKv.png](https://br.freepik.com/fotos-gratis/homem-de-negocios-usando-tablet-com-graficos-digitais_268314407.htm#fromView=search&page=1&position=12&uuid=e78756f2-e58d-47df-b1a6-7932badc6ebe&query=data))
 
 # 👋 Olá, eu sou o Kauã Nascimento  
 
@@ -33,9 +33,9 @@ Atualmente trabalho com projetos de **Análise Exploratória, Machine Learning**
 
 ### 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauã%20Nascimento-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-link-aqui)
-[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://seu-portfolio-aqui.com)
-[![Email](https://img.shields.io/badge/Email-kauanascimento%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauanascimento@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauã%20Nascimento-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/seu-link-aqui](https://www.linkedin.com/in/kau%C3%A3-barros-07b7b0251/))
+[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)]([https://seu-portfolio-aqui.com](https://kntechsolutions.com.br/analyst/))
+[![Email](https://img.shields.io/badge/Email-kauanascimento%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kn.techsolutionss@gmail.com)
 
 ---
 
