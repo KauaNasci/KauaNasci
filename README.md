@@ -1,6 +1,6 @@
 <!-- Banner -->
-<p align="center">
-  <img src="https://github.com/KauaNasci/KauaNasci/blob/main/visualizacao-interativa-de-dados-num-ecra-sensivel-ao-toque-moderno.jpg?raw=true" alt="Banner" width="40%">
+<p>
+  <img src="https://github.com/KauaNasci/KauaNasci/blob/main/visualizacao-interativa-de-dados-num-ecra-sensivel-ao-toque-moderno.jpg?raw=true" alt="Banner" width="40%" border-radius="20px">
 </p>
 
 
