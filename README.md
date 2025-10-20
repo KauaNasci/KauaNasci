@@ -1,5 +1,6 @@
 <!-- Banner -->
-![Banner]([https://img.freepik.com/fotos-gratis/visualizacao-interativa-de-dados-num-ecra-sensivel-ao-toque-moderno_23-2150405712.jpg?t=st=1734732491~exp=1734736091~hmac=0d2a53775cc9ecb3f63c290d3e7367cc8ecf6b8deca6cd53425d40a2a8e2a64e&w=1380](https://github.com/KauaNasci/KauaNasci/blob/main/visualizacao-interativa-de-dados-num-ecra-sensivel-ao-toque-moderno.jpg?raw=true))
+![Banner](https://github.com/KauaNasci/KauaNasci/blob/main/visualizacao-interativa-de-dados-num-ecra-sensivel-ao-toque-moderno.jpg?raw=true)
+
 
 # 👋 Olá, eu sou o Kauã Nascimento  
 
