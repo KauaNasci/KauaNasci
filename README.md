@@ -1,10 +1,12 @@
 <!-- Banner -->
-![Banner](https://i.imgur.com/x1K8zKv.png)
+![Banner](https://img.freepik.com/fotos-gratis/visualizacao-interativa-de-dados-num-ecra-sensivel-ao-toque-moderno_23-2150405712.jpg?t=st=1734732491~exp=1734736091~hmac=0d2a53775cc9ecb3f63c290d3e7367cc8ecf6b8deca6cd53425d40a2a8e2a64e&w=1380)
 
 # 👋 Olá, eu sou o Kauã Nascimento  
 
 🎯 **Analista de Dados e Desenvolvedor em formação**  
-📍 Fortaleza - CE | 🎓 Estudante de Ciência de Dados (Uninter)
+📍 Fortaleza - CE  
+🎓 **Estudante de Ciência de Dados (Uninter)**  
+🎓 **Técnico em Desenvolvimento de Sistemas (EEEP Dr. Salomão)**  
 
 Sou apaixonado por transformar dados em **insights valiosos e soluções inteligentes**.  
 Atualmente trabalho com projetos de **Análise Exploratória, Machine Learning** e **Visualização de Dados**.
@@ -34,8 +36,8 @@ Atualmente trabalho com projetos de **Análise Exploratória, Machine Learning**
 ### 🌐 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauã%20Nascimento-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kau%C3%A3-barros-07b7b0251/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kntechsolutions.com.br/analyst/)
-[![Email](https://img.shields.io/badge/Email-kn.techsolutionss%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kn.techsolutionss@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kntechsolutions.com.br/analyst/)
+[![Email](https://img.shields.io/badge/Email-kauanascimento%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kn.techsolutionss@gmail.com)
 
 ---
 
