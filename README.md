@@ -1,5 +1,7 @@
 <!-- Banner -->
-![Banner](https://github.com/KauaNasci/KauaNasci/blob/main/visualizacao-interativa-de-dados-num-ecra-sensivel-ao-toque-moderno.jpg?raw=true)
+<p align="center">
+  <img src="https://github.com/KauaNasci/KauaNasci/blob/main/visualizacao-interativa-de-dados-num-ecra-sensivel-ao-toque-moderno.jpg?raw=true" alt="Banner" width="40%">
+</p>
 
 
 # 👋 Olá, eu sou o Kauã Nascimento  
