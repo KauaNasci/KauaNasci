@@ -32,11 +32,11 @@ Atuo com **análise exploratória**, **visualização de dados**, **automação*
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-9e3c94?style=for-the-badge)
 
----
-## 📊 Estatísticas do GitHub
+---## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KauaNasci&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauaNasci&layout=compact&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KauaNasci&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KauaNasci&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KauaNasci&theme=radical)
 
 ---
 
