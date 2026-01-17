@@ -32,7 +32,8 @@ Atuo com **análise exploratória**, **visualização de dados**, **automação*
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-9e3c94?style=for-the-badge)
 
----## 
+---
+
 📊 Estatísticas do GitHub
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KauaNasci&theme=radical)
