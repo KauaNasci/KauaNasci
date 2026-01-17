@@ -33,19 +33,12 @@ Atuo com **análise exploratória**, **visualização de dados**, **automação*
 ![Seaborn](https://img.shields.io/badge/Seaborn-9e3c94?style=for-the-badge)
 
 ---
-
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=KauaNasci&show_icons=true&theme=radical" 
-    height="165"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaNasci&layout=compact&theme=radical" 
-    height="165"
-  />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KauaNasci&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauaNasci&layout=compact&theme=radical&hide_border=true&cache_seconds=86400)
+
 
 ---
 
