@@ -22,15 +22,9 @@ Atuo com **modelagem e transformação de dados**, **qualidade e estruturação 
 
 ## 🧠 Stack Técnica & Ferramentas
 
-### 💻 Dados, Transformação e Nuvem
-![SQL](https://shields.io)
-![dbt](https://shields.io)
-![Python](https://shields.io)
-![Pandas](https://shields.io)
-![NumPy](https://shields.io)
-![Power BI](https://shields.io)
-![AWS](https://shields.io)
-![Git](https://shields.io)
+* **Dados & Transformação:** `SQL` • `dbt (data build tool)` • `Modelagem Dimensional` • `ETL / ELT`
+* **Programação & Análise:** `Python` • `Pandas` • `NumPy` • `Scikit-Learn`
+* **Visualização & Nuvem:** `Power BI` • `AWS Cloud` • `Git / GitHub`
 
 ---
 
@@ -44,9 +38,9 @@ Atuo com **modelagem e transformação de dados**, **qualidade e estruturação 
 
 ## 🌐 Conecte-se comigo
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Portfólio](https://shields.io)](https://kntechsolutions.com.br)
-[![Email](https://shields.io)](mailto:kn.techsolutionss@gmail.com)
+* **LinkedIn:** https://linkedin.com
+* **Portfólio Web:** https://kntechsolutions.com.br
+* **E-mail:** kn.techsolutionss@gmail.com
 
 ---
 
