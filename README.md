@@ -27,8 +27,8 @@ Tenho interesse em projetos envolvendo:
 
 - Construção e otimização de consultas SQL.
 - ETL e transformação de dados.
+- Modelagem de dados com dbt.
 - Limpeza, integração e qualidade de dados.
-- Modelagem de dados para análises e relatórios.
 - Desenvolvimento de dashboards e indicadores.
 - Automação de processos e fluxos de dados.
 - Análise exploratória e Machine Learning.
@@ -43,6 +43,10 @@ Tenho interesse em projetos envolvendo:
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Analytics Engineering e transformação de dados
+
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
 ### Business Intelligence e visualização
 
