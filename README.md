@@ -8,33 +8,33 @@
   >
 </p>
 
-# 👋 Olá, eu sou o Kauã Nascimento  
+# 👋 Olá, eu sou o Kauã Barros
 
-🎯 **Analista de Dados em formação | Desenvolvedor Web**  
-📍 Fortaleza – CE  
-🎓 **Ciência de Dados – UNINTER**  
-🎓 **Técnico em Desenvolvimento de Sistemas – EEEP Dr. Salomão**
+🎯 **Analytics Engineering | Engenharia & Análise de Dados | Base em Desenvolvimento Web**  
+📍 Ceará, Brasil (Disponível para atuação Remota)  
+🎓 **Tecnólogo em Ciência de Dados – UNINTER**  
+🎓 **Técnico em Desenvolvimento de Sistemas – EEEP Dr. Salomão Alves de Moura**
 
-Sou apaixonado por **transformar dados em decisões inteligentes**.  
-Atuo com **análise exploratória**, **visualização de dados**, **automação** e **modelagem inicial de Machine Learning**, sempre focado em gerar valor real a partir da informação.
+Utilizo minha base em engenharia de software e programação para atuar na ponte entre a **engenharia e a análise de dados**.  
+Atuo com **modelagem e transformação de dados**, **qualidade e estruturação de pipelines (ETL/ELT)**, **análise exploratória** e **Business Intelligence**, sempre focado em entregar dados confiáveis para decisões estratégicas.
 
 ---
 
-## 🧠 Habilidades Técnicas
+## 🧠 Stack Técnica & Ferramentas
 
-### 💻 Linguagens, Ferramentas e Bibliotecas
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 💻 Dados, Transformação e Nuvem
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![dbt](https://shields.io)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://shields.io)
+![NumPy](https://shields.io)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-9e3c94?style=for-the-badge)
+![AWS](https://shields.io)
+![Git](https://shields.io)
 
 ---
 
-📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KauaNasci&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KauaNasci&theme=radical)
@@ -44,10 +44,10 @@ Atuo com **análise exploratória**, **visualização de dados**, **automação*
 
 ## 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kauã%20Nascimento-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kau%C3%A3-barros-07b7b0251/)
+[![LinkedIn](https://shields.io)](https://linkedin.com)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kntechsolutions.com.br/analyst/)
-[![Email](https://img.shields.io/badge/Email-kauanascimento%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kn.techsolutionss@gmail.com)
+[![Email](https://shields.io)](mailto:kn.techsolutionss@gmail.com)
 
 ---
 
-💬 *“Dados contam histórias. Meu trabalho é traduzi-las em decisões.”*
+💬 *“Dados bem modelados sustentam decisões inteligentes.”*
